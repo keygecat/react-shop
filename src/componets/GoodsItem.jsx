@@ -21,7 +21,7 @@ function GoodsItem(props) {
             </div>
 
             <div className="card-action">  
-                <button className="btn" 
+                <button className="btn deep-purple lighten-2" 
                 onClick={() =>
                     addToBasket({
                         id,
